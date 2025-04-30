@@ -8,7 +8,7 @@
 - ExemploService: Serviço de negócio demonstrando uso do WebClient
 - OkHttpClientHttpConnectorTest: Testes unitários com MockWebServer
 
-2. Funcionalidades Principais
+## Funcionalidades Principais
 
 **OkHttpClientHttpConnector**
 
@@ -36,7 +36,7 @@
 - Testa cenários de erro de conexão
 - Utiliza MockWebServer para simular servidores HTTP
 
-3. Limitações e Melhorias
+## Limitações e Melhorias
 
 - Atualmente só suporta requisições GET sem corpo
 - Uso de chamadas síncronas do OkHttp (bloqueantes)
